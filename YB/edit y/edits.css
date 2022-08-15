@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    font-family: georgia; 
+}
+.pog{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: auto;    
+}
+.boss{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;   
+}
+header{
+    background-color: #09f;
+    color: #000;
+    padding: 10px; 
+    border-bottom: solid 2px #000;
+}
+nav{
+    border-bottom: solid 2px #000;
+    background-color: #1dd;
+    text-align: center; 
+}
+nav ul{
+    list-style: none;
+    
+} 
+nav ul li{
+    display: inline; 
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    display: inline-block; 
+    border-bottom: solid 3px #88f;
+    color: #000; 
+}
+nav ul li a:hover{ 
+    background-color: #048;
+    color: 0af;
+    border-bottom: solid 2px #00f;
+}
+section{
+    min-height: 800px;
+    text-align: center;
+}
+footer{
+    background-color: #1dd;
+    color: #000;
+    padding: 20px; 
+    border-top: solid 2px #000;
+}
+figure{
+    display: inline-block;
+    background-color: #0bf;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 10px; 
+    opacity: 0.9; /*edit*/
+}
+figure figcaption a{
+    text-decoration: none;
+    color: #000;
+}
+figure:hover{
+    background-color: #0bf;
+    border-radius: 10px;
+}
+.gore{
+    width: 200px;
+    height: 200px;
+}
+table{
+    width: 40%;
+    margin: 50px auto;
+}
+.poggers{
+    text-align: center;
+    margin: 0 auto;
+    width: 98.%;
+    max-width: auto;    
+}
+.lor, .lor:hover{
+    display: inline-block;
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 0px; 
+    opacity: 1; 
+    
+}
+.lor{
+    border: 2px solid #000;
+   }
+.hug{
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+}
+.ço, .ço:hover{
+    display: inline-block;
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 0px; 
+    opacity: 1; 
+}
+.ço{
+    border: 2px solid #000;
+   }
+.kappa{
+    text-align: center;
+}
+.froggers, figure:hover{
+        display: inline-block;
+        background-color: #0ff;
+        padding: 10px;
+        margin: 10px; 
+        border-radius: 9px; 
+        opacity: 1; 
+        
+}
+.a1:hover{
+    background-color: #ff0;
+}
+body{
+    background-image: url("../fundo/fundo.png");
+}
+
+.omega, .omega:hover{
+    display: inline-block;
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 0px; 
+    opacity: 1; 
+    
+}
+.mir, .mir:hover{
+    display: inline-block;
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 0px; 
+    opacity: 1; 
+    
+}
+.mel{
+    width: 200px;
+    height: 250px;
+}
+.teste{
+    margin: 25px 0;
+}
+.pes{
+    margin: 20px 0;
+}
+.uhn, .rgn, .iop{
+    margin: 15px 0;
+}
